@@ -1,0 +1,2 @@
+ls: cannot access 'Naloga1': No such file or directory
+Naloga_fukcije_1.sh

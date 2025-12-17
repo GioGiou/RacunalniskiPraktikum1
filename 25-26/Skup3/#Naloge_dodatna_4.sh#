@@ -1,0 +1,17 @@
+#!/bin/bash
+
+nakljucno_st=$((RANDOM%101))
+echo $nakljucno_st
+
+read -p "Vpiši število: " st
+until [ $st -eq $nakljucno_st ]
+do
+	if [ $st -gt $nakljucno_st ]
+	then
+		echo "Iskano število je manjše"
+	else
+		echo "Iskano število je večje"
+	fi
+	read -p "Naredili spoizkusov. Vpiši število: " st
+done
+echo "Ugotovili ste število"

@@ -1,0 +1,1 @@
+ls: cannot access 'Naloge': No such file or directory

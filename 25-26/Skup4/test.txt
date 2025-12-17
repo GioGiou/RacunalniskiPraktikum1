@@ -1,0 +1,4 @@
+Naloga_funkcije_1.sh
+Naloga_funkcije_2.sh
+Naloga_funkcije_3.sh
+test.txt

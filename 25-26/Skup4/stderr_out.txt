@@ -1,0 +1,2 @@
+ls: cannot access 'Naloge.sh': No such file or directory
+Naloga_funkcije_2.sh
