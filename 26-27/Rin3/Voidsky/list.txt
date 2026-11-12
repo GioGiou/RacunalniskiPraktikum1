@@ -1,4 +1,0 @@
-total 8
--rw-r--r-- 1 GioGiou GioGiou    0 Oct  8 14:31 Jani.txt
-drwxr-xr-x 5 GioGiou GioGiou 4096 Oct  8 14:45 MyFolder
-drwxr-xr-x 2 GioGiou GioGiou 4096 Oct  8 14:35 premik
